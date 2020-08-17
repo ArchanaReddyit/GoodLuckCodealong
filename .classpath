@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/archa/Downloads/simplefan.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/archa/Downloads/ons.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/archa/Downloads/xdb6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/archa/Downloads/orai18n.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/archa/Downloads/ucp.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/archa/Downloads/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
